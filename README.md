@@ -12,8 +12,7 @@ This project analyzes banking customer churn using Power BI to identify customer
 - DAX
 
 ## Dashboard Preview
-
-(Dashboard image will be added below.)
+![Banking Customer Churn Dashboard](Dashboard.png)
 
 ## Key KPIs
 
